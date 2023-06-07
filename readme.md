@@ -5,9 +5,9 @@
 ## Task List with Checkboxes
 
 
-~ [x] create internal link to the [Github Markdown](#github-markdown) section bellow
+ - [x] create internal link to the [Github Markdown](#github-markdown) section bellow
 
-~[ ]
+- [ ] do something else
 
 ## Relative links to Directories and Image Files
 
