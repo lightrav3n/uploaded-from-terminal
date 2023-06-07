@@ -11,7 +11,8 @@
 
 ## Relative links to Directories and Image Files
 
-Here is a in image from the folder [images](./images/):
+Here is a in image from the folder [images](./images/): 
+
 ![a photo](./images/download.jpeg)
 
 ## Github Markdown
